@@ -322,4 +322,9 @@ form h2 {
 
 .extra {
     height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: #F4501D;
 }
